@@ -1,1 +1,1 @@
-- 💞️ My name is Rex. I am a Full-stack web developer with expertise in PHP, Laravel, React, Mysql, Node/Express.js, MongoDB, JavaScript/Jquery, Ajax, and Bootstrap. I bring proven skills in web programming, demonstrated through practical experience in developing modern websites and web applications. I am eager to utilize my abilities within a positive work environment, making a positive impact in this position
+
